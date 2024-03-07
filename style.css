@@ -689,16 +689,10 @@ body {
   0%, 100% {
     transform: rotate(20deg);
   }
-  50% {
-    transform: rotate(24deg) rotateX(-20deg);
-  }
 }
 @keyframes flower-g-right-ans--2 {
   0%, 100% {
     transform: rotateY(-180deg) rotate(0deg) rotateX(-20deg);
-  }
-  50% {
-    transform: rotateY(-180deg) rotate(6deg) rotateX(-20deg);
   }
 }
 .flower__g-front {
@@ -817,9 +811,6 @@ body {
 @keyframes flower__g-fr-ans {
   0%, 100% {
     transform: rotate(2deg);
-  }
-  50% {
-    transform: rotate(4deg);
   }
 }
 .flower__g-fr .leaf {
@@ -1038,16 +1029,10 @@ body {
   0%, 100% {
     transform: rotateY(-180deg) rotate(5deg);
   }
-  50% {
-    transform: rotateY(-180deg) rotate(0deg) scale(1.1);
-  }
 }
 @keyframes leaf-ans-3 {
   0%, 100% {
     transform: rotate(-10deg) rotateY(-180deg);
-  }
-  50% {
-    transform: rotate(-20deg) rotateY(-180deg);
   }
 }
 .grow-ans {
