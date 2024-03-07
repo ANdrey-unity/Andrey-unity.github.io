@@ -34,7 +34,7 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  max-height: 0.5vh;
+   max-height: 400px;
   background-color: var(--dark-color);
   overflow: hidden;
   perspective: 1000px;
